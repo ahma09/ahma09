@@ -1,8 +1,7 @@
-### Hi there 👋 , i'm Ahmed, Python-developer.
+## Hi there 👋 , i'm Ahmed, Python-developer.
 
-## Yandex.Practicum graduate
-## Languages and Tools: Python/Django/Django Rest Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/Html/CSS/Linux/Nginx/Unittest
-## Contacts
+#### Yandex.Practicum graduate
+#### Languages and Tools: Python/Django/Django Rest Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/Html/CSS/Linux/Nginx/Unittest
 <!--
 **ahma09/ahma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
